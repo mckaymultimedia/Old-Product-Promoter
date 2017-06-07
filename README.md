@@ -1,4 +1,4 @@
-# Old-Product-Promoter
+# Old Product Promoter for WordPress Woocommerce Products
 
 This is a modified version of the Old Post Promoter WordPress plugin that works for Woocommerce products.
 
